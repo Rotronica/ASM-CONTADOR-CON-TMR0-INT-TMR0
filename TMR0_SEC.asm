@@ -1,3 +1,5 @@
+;Autor: Calle Condori Rodrigo
+;El siguiente programa realiza la visualizacion de diferentes secuencias con un tiempo de visualizacion utilizando el modulo TMR0
 	CONT	EQU	0X20		;La variable se guarda en CONT guarda en la dirección 0x20
 	CONT1	EQU	0X21		;La variable se guarda en CONT1 guarda en la dirección 0x21
 	ORG	0X00			;Vector reset
